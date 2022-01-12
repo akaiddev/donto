@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+}
+p {
+  margin-bottom: 0rem !important;
+}
+
+code {
+  font-family: 'Rajdhani', sans-serif;
+}
